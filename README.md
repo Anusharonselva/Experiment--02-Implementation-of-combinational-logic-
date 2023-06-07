@@ -61,6 +61,7 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 ![Screenshot (223)](https://github.com/Anusharonselva/Experiment--02-Implementation-of-combinational-logic-/assets/119405600/cb83c039-99af-4fad-9fa6-ff94dc8d01c9)
 
 TRUTH TABLE
+
 F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
 ![Screenshot (224)](https://github.com/Anusharonselva/Experiment--02-Implementation-of-combinational-logic-/assets/119405600/f9604373-bc9e-4509-8123-0ee9bb56d211)
 
